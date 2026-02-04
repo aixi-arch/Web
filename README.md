@@ -1,6 +1,7 @@
 # vue_web
 
-This template should help get you started developing with Vue 3 in Vite.
+A demo frontend project built with Vue 3, Bootstrap, and WebAPI.
+
 
 ## Recommended IDE Setup
 
